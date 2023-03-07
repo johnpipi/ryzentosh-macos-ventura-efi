@@ -1,0 +1,1 @@
+# ryzentosh-macos-ventura-efi
